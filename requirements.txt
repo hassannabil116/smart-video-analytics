@@ -1,0 +1,9 @@
+# !pip install requirements.txt
+ultralytics==8.3.193
+torch==2.7.0
+deep-sort-realtime==1.3.2 
+torchreid  #(if not exist)  # pip install git+https://github.com/KaiyangZhou/deep-person-reid.git
+
+
+
+
